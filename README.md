@@ -30,3 +30,16 @@ This map shows where wildfire ignitions have occurred across boreal forests in A
 ![Land Cover 2100](SS_LULC_ABoVE_2100.png)
 
 These maps show projected changes in land cover between 2015 and 2100, focusing on shifts in vegetation such as deciduous boreal forests. Comparing these time periods helps illustrate how climate and land use may influence future landscape composition across the Arctic-Boreal region.
+
+---
+
+## Booklets
+
+Regional maps were translated into plain-language booklet products designed to make complex environmental data more accessible to communities.
+
+- [ABoVE Domain Booklet](booklets/Final_ABoVE.pdf)
+- [Sahtu Region Booklet](booklets/Final_Sahtu.pdf)
+- [Yukon-Kuskokwim Delta Booklet](booklets/Final_Yukon.pdf)
+- [Fairbanks Booklet](booklets/Final_Fairbanks.pdf)
+
+
