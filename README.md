@@ -6,6 +6,8 @@ NASA ABoVE (Arctic-Boreal Vulnerability Experiment) GIS mapping project integrat
 ### Vegetation & Forest Structure
 ![Tree Canopy Cover](ABoVE_TCC-compressed.png)
 
+![Tree Canopy Cover - Sahtu Region](ABoVE_TCC-compressed.png)
+
 ---
 
 ### Fire & Disturbance
