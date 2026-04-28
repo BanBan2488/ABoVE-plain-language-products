@@ -40,7 +40,7 @@ These booklets include regional maps and plain-language summaries. If the GitHub
 - [ABoVE Domain Booklet](Final_ABoVE.pdf)
 - [Sahtu Region Booklet](Final_Sahtu.pdf)
 - [Yukon-Kuskokwim Delta Booklet](Final_Yukon.pdf)
-- [Fairbanks / Bonanza Creek Booklet](Final_Fairbanks.pdf)
+- [Fairbanks Booklet](Final_Fairbanks.pdf)
 
 Additional official ABoVE outreach materials:
 https://above.nasa.gov/outreach.html
