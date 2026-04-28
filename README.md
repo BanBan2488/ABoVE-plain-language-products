@@ -37,9 +37,8 @@ These maps show projected changes in land cover between 2015 and 2100, focusing 
 
 Regional maps were translated into plain-language booklet products designed to make complex environmental data more accessible to communities.
 
-- [ABoVE Domain Booklet](booklets/Final_ABoVE.pdf)
-- [Sahtu Region Booklet](booklets/Final_Sahtu.pdf)
-- [Yukon-Kuskokwim Delta Booklet](booklets/Final_Yukon.pdf)
-- [Fairbanks Booklet](booklets/Final_Fairbanks.pdf)
-
+- [ABoVE Domain Booklet](Final_ABoVE.pdf)
+- [Sahtu Region Booklet](Final_Sahtu.pdf)
+- [Yukon-Kuskokwim Delta Booklet](Final_Yukon.pdf)
+- [Fairbanks / Bonanza Creek Booklet](Final_Fairbanks.pdf)
 
