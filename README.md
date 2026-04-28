@@ -6,12 +6,21 @@ NASA ABoVE (Arctic-Boreal Vulnerability Experiment) GIS mapping project integrat
 ### Vegetation & Forest Structure
 ![Tree Canopy Cover](ABoVE_TCC-compressed.png)
 
-![Tree Canopy Cover - Sahtu Region](TCC_Sahtu-compressed.png)
+This map shows how much of the Arctic-Boreal region is covered by tree canopy and how forest age varies across the landscape. By combining Landsat imagery with machine learning, long-term changes in forest structure were estimated from 1984 to 2020, helping illustrate patterns of growth, disturbance, and recovery over time.
+
+---
+
+### Carbon Flux
+![CO2 Flux](CO2Flux_NEE_ABoVE-compressed.png)
+
+This map shows where wildfire ignitions have occurred across boreal forests in Alaska and Canada. These patterns help illustrate how fire is distributed across the landscape and highlight regions where disturbance plays a major role in shaping ecosystem dynamics.
 
 ---
 
 ### Fire & Disturbance
 ![Fire Ignitions](FireIgnitions_ABoVE-compressed.png)
+
+This map shows where wildfire ignitions have occurred across boreal forests in Alaska and Canada. These patterns help illustrate how fire is distributed across the landscape and highlight regions where disturbance plays a major role in shaping ecosystem dynamics.
 
 ---
 
@@ -19,3 +28,5 @@ NASA ABoVE (Arctic-Boreal Vulnerability Experiment) GIS mapping project integrat
 ![Land Cover 2015](SS_LULC_ABoVE_2015.png)
 
 ![Land Cover 2100](SS_LULC_ABoVE_2100.png)
+
+These maps show projected changes in land cover between 2015 and 2100, focusing on shifts in vegetation such as deciduous boreal forests. Comparing these time periods helps illustrate how climate and land use may influence future landscape composition across the Arctic-Boreal region.
