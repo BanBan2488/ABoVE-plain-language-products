@@ -4,30 +4,30 @@ NASA ABoVE (Arctic-Boreal Vulnerability Experiment) GIS mapping project integrat
 ## Sample Maps
 
 ### Vegetation & Forest Structure
-![Tree Canopy Cover](images/ABoVE_TCC-compressed.png).
+![Tree Canopy Cover](ABoVE_TCC-compressed.png).
 
 This map shows how much of the Arctic-Boreal region is covered by tree canopy and how forest age varies across the landscape. By combining Landsat imagery with machine learning, long-term changes in forest structure were estimated from 1984 to 2020, helping illustrate patterns of growth, disturbance, and recovery over time.
 
 ---
 
 ### Carbon Flux
-![CO2 Flux](images/CO2Flux_NEE_ABoVE-compressed.png)
+![CO2 Flux](CO2Flux_NEE_ABoVE-compressed.png)
 
 This map shows where wildfire ignitions have occurred across boreal forests in Alaska and Canada. These patterns help illustrate how fire is distributed across the landscape and highlight regions where disturbance plays a major role in shaping ecosystem dynamics.
 
 ---
 
 ### Fire & Disturbance
-![Fire Ignitions](images/FireIgnitions_ABoVE-compressed.png)
+![Fire Ignitions](FireIgnitions_ABoVE-compressed.png)
 
 This map shows where wildfire ignitions have occurred across boreal forests in Alaska and Canada. These patterns help illustrate how fire is distributed across the landscape and highlight regions where disturbance plays a major role in shaping ecosystem dynamics.
 
 ---
 
 ### Land Cover Change
-![Land Cover 2015](images/SS_LULC_ABoVE_2015.png)
+![Land Cover 2015](SS_LULC_ABoVE_2015.png)
 
-![Land Cover 2100](images/SS_LULC_ABoVE_2100.png)
+![Land Cover 2100](SS_LULC_ABoVE_2100.png)
 
 These maps show projected changes in land cover between 2015 and 2100, focusing on shifts in vegetation such as deciduous boreal forests. Comparing these time periods helps illustrate how climate and land use may influence future landscape composition across the Arctic-Boreal region.
 
@@ -37,10 +37,10 @@ These maps show projected changes in land cover between 2015 and 2100, focusing 
 
 These booklets include regional maps and plain-language summaries. If the GitHub preview does not display all map images, use the download button or view the official NASA ABoVE outreach page.
 
-- [ABoVE Domain Booklet](booklets/Final_ABoVE.pdf)
-- [Sahtu Region Booklet](booklets/Final_Sahtu.pdf)
-- [Yukon-Kuskokwim Delta Booklet](booklets/Final_Yukon.pdf)
-- [Fairbanks Booklet](booklets/Final_Fairbanks.pdf)
+- [ABoVE Domain Booklet](Final_ABoVE.pdf)
+- [Sahtu Region Booklet](Final_Sahtu.pdf)
+- [Yukon-Kuskokwim Delta Booklet](Final_Yukon.pdf)
+- [Fairbanks Booklet](Final_Fairbanks.pdf)
 
 Additional official ABoVE outreach materials:
 https://above.nasa.gov/outreach.html
